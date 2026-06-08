@@ -1,0 +1,4 @@
+Hello Everyone
+My name's Mohammed Hammouz
+I'm student At Programming Advices
+My Soft skills are : C++,C#,OOP,SQL,T-SQL , ADO.NET ,Entity Framework, Data Structures ,Algorithms
