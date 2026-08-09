@@ -10,43 +10,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile"); 
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("Update - MyFile");
-            Console.WriteLine("sswpslwplswp");
-            Console.WriteLine("sswpslwplswp");
-            Console.WriteLine("sswpslwplswp");
-            Console.WriteLine("sswpslwplswp");
-            Console.WriteLine("sswpslwplswp");
-            Console.WriteLine("sswpslwplswp");
-            Console.WriteLine("sswpslwplswp");
-            Console.WriteLine("sswpslwplswp");
-            Console.WriteLine("sswpslwplswp");
-            Console.WriteLine("sswpslwplswp");
-            string message = "Feature1";
-            Console.WriteLine(message);
+            int number1 = 1;
+            int number2 = 4;
+            Console.WriteLine(number1 + number2);
+            Console.WriteLine(number1 - number2);
+            Console.WriteLine(number1 * number2);
+            Console.WriteLine(number1 / number2);
         }
     }
 }
